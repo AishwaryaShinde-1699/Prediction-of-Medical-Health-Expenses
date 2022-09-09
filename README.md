@@ -1,7 +1,7 @@
 # Prediction-of-Medical-Health-Expenses
 
 - I have completed Project on prediction of medical health expenses and in this project to predict the future medical health expenses.
-- The Dataset I am using is Prosper Loan Dataset it consists of 1338 rows and 7 columns.
+- The Dataset I am using is Medical Health Expense Dataset it consists of 1338 rows and 7 columns.
 
 **Aim of the Project:** 
 From the given dataset we have to predict future medical health expenses.
